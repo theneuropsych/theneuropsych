@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @theneuropsych! Really excited to be joining the Github community and looking forward to working with likeminded individuals.
+- 👋🏾 Hi, I’m **@theneuropsych**! Really excited to be joining the Github community and looking forward to working with likeminded individuals.
 - 😊 I’m working at the interesection of neurolaw, mental health and affective disorders.
 - 🌱 I’m currently learning R, and entering into the world of programming, which is proving to be quite exciting!
 - 🧠 I’m looking to collaborate on projects that revolve around mental health, allowing me to further develop my skills as a data scientist in this realm.
